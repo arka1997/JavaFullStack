@@ -1,0 +1,166 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Driver",
+      "request": "launch",
+      "mainClass": "interfacePrac.Driver",
+      "projectName": "test_93a20a27"
+    },
+    {
+      "type": "java",
+      "name": "ProductApplicationDriver",
+      "request": "launch",
+      "mainClass": "TreeSetPrac.ProductApplicationDriver",
+      "projectName": "test_93a20a27"
+    },
+    {
+      "type": "java",
+      "name": "Driver",
+      "request": "launch",
+      "mainClass": "TreeSetPrac.Driver",
+      "projectName": "test_93a20a27"
+    },
+    {
+      "type": "java",
+      "name": "Driver",
+      "request": "launch",
+      "mainClass": "AbstractClass.Driver",
+      "projectName": "test_93a20a27"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "with_polymorphism.Main",
+      "projectName": "test_93a20a27"
+    },
+    {
+      "type": "java",
+      "name": "TreeSetPrac",
+      "request": "launch",
+      "mainClass": "TreeSetPrac",
+      "projectName": "test_93a20a27"
+    },
+    {
+      "type": "java",
+      "name": "LinkedHashSetPrac",
+      "request": "launch",
+      "mainClass": "LinkedHashSetPrac",
+      "projectName": "test_93a20a27"
+    },
+    {
+      "type": "java",
+      "name": "Drivers",
+      "request": "launch",
+      "mainClass": "Drivers",
+      "projectName": "test_93a20a27"
+    },
+    {
+      "type": "java",
+      "name": "HashPract",
+      "request": "launch",
+      "mainClass": "HashPract",
+      "projectName": "test_93a20a27"
+    },
+    {
+      "type": "java",
+      "name": "HashSetPrac",
+      "request": "launch",
+      "mainClass": "HashSetPrac",
+      "projectName": "test_93a20a27"
+    },
+    {
+      "type": "java",
+      "name": "DriverClient",
+      "request": "launch",
+      "mainClass": "polymorphismPrac.DriverClient",
+      "projectName": "test_93a20a27"
+    },
+    {
+      "type": "java",
+      "name": "RuntimePolymorphism",
+      "request": "launch",
+      "mainClass": "RuntimePolymorphism",
+      "projectName": "test_93a20a27"
+    },
+    {
+      "type": "java",
+      "name": "ElectronicsProduct",
+      "request": "launch",
+      "mainClass": "ElectronicsProduct",
+      "projectName": "test_93a20a27"
+    },
+    {
+      "type": "java",
+      "name": "InheritancePractice",
+      "request": "launch",
+      "mainClass": "InheritancePractice",
+      "projectName": "test_93a20a27"
+    },
+    {
+      "type": "java",
+      "name": "HashSetPractice",
+      "request": "launch",
+      "mainClass": "HashSetPractice",
+      "projectName": "test_93a20a27"
+    },
+    {
+      "type": "java",
+      "name": "OutsideUser",
+      "request": "launch",
+      "mainClass": "encapsulation.OutsideUser",
+      "projectName": "test_93a20a27"
+    },
+    {
+      "type": "java",
+      "name": "StringBuilderTest",
+      "request": "launch",
+      "mainClass": "StringBuilderTest",
+      "projectName": "test_93a20a27"
+    },
+    {
+      "type": "java",
+      "name": "Account",
+      "request": "launch",
+      "mainClass": "Account",
+      "projectName": "test_93a20a27"
+    },
+    {
+      "type": "java",
+      "name": "StringFunction",
+      "request": "launch",
+      "mainClass": "StringFunction",
+      "projectName": "test_93a20a27"
+    },
+    {
+      "type": "java",
+      "name": "Driver",
+      "request": "launch",
+      "mainClass": "Driver",
+      "projectName": "test_93a20a27"
+    },
+    {
+      "type": "java",
+      "name": "User",
+      "request": "launch",
+      "mainClass": "User",
+      "projectName": "test_93a20a27"
+    },
+    {
+      "type": "java",
+      "name": "set",
+      "request": "launch",
+      "mainClass": "set",
+      "projectName": "test_93a20a27"
+    },
+    {
+      "type": "java",
+      "name": "Launch CollisionDemo",
+      "request": "launch",
+      "mainClass": "CollisionDemo",
+      "projectName": ""
+    }
+  ]
+}
