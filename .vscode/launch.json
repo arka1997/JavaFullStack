@@ -3,6 +3,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "TypesOfFunctionalInterface",
+      "request": "launch",
+      "mainClass": "functional_interface.TypesOfFunctionalInterface",
+      "projectName": "test_93a20a27"
+    },
+    {
+      "type": "java",
+      "name": "Driver",
+      "request": "launch",
+      "mainClass": "functional_interface.Driver",
+      "projectName": "test_93a20a27"
+    },
+    {
+      "type": "java",
       "name": "Driver",
       "request": "launch",
       "mainClass": "interfacePrac.Driver",

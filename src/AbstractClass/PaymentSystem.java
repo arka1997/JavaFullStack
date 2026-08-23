@@ -10,4 +10,8 @@ public abstract class PaymentSystem {
     public void sendSms(){
         System.out.println("Send sms from abstract parent class, common for all implemented child classes");
     }
+
+     public void sendSms2(){
+        System.out.println("Send sms from abstract parent class, common for all implemented child classes");
+    }
 }
