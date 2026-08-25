@@ -1,4 +1,8 @@
 // Factory is created, to return objects, that is needed as per requirments. Name is sent as paramaeter, and it obejct is returned.
+
+import inheritance.ElectronicsProduct;
+import inheritance.Product;
+
 public class ObjectFactory {
     public static Object getObject(Object obj) {
         if(obj.equals("Product")){

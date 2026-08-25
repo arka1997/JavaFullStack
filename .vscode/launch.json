@@ -3,6 +3,34 @@
   "configurations": [
     {
       "type": "java",
+      "name": "HashPract",
+      "request": "launch",
+      "mainClass": "hashset.HashPract",
+      "projectName": "test_93a20a27"
+    },
+    {
+      "type": "java",
+      "name": "Practice2",
+      "request": "launch",
+      "mainClass": "hashset.Practice2",
+      "projectName": "test_93a20a27"
+    },
+    {
+      "type": "java",
+      "name": "StringPlay",
+      "request": "launch",
+      "mainClass": "StringPlay",
+      "projectName": "test_93a20a27"
+    },
+    {
+      "type": "java",
+      "name": "Driver",
+      "request": "launch",
+      "mainClass": "hashmap.Driver",
+      "projectName": "test_93a20a27"
+    },
+    {
+      "type": "java",
       "name": "TypesOfFunctionalInterface",
       "request": "launch",
       "mainClass": "functional_interface.TypesOfFunctionalInterface",
