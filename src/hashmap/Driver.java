@@ -24,7 +24,7 @@ public class Driver {
         m2.put("Jade", 3);
         m2.put("Moon Cactus", 4);
         m2.put("Aglaonema", 6);
-
+        
         System.out.println(m2);
 
         Map<String, Integer> m3 = new TreeMap<>();

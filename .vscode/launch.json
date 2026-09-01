@@ -3,6 +3,104 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Duplicates",
+      "request": "launch",
+      "mainClass": "streamapi.Duplicates",
+      "projectName": "test_93a20a27"
+    },
+    {
+      "type": "java",
+      "name": "flatMapPrac",
+      "request": "launch",
+      "mainClass": "streamapi.flatMapPrac",
+      "projectName": "test_93a20a27"
+    },
+    {
+      "type": "java",
+      "name": "StreamPrac1",
+      "request": "launch",
+      "mainClass": "streamapi.StreamPrac1",
+      "projectName": "test_93a20a27"
+    },
+    {
+      "type": "java",
+      "name": "StreamUppercase",
+      "request": "launch",
+      "mainClass": "streamapi.StreamUppercase",
+      "projectName": "test_93a20a27"
+    },
+    {
+      "type": "java",
+      "name": "Practice2",
+      "request": "launch",
+      "mainClass": "set.hashset.Practice2",
+      "projectName": "test_93a20a27"
+    },
+    {
+      "type": "java",
+      "name": "Driver",
+      "request": "launch",
+      "mainClass": "comparablecomparator.comparator.Driver",
+      "projectName": "test_93a20a27"
+    },
+    {
+      "type": "java",
+      "name": "Driver",
+      "request": "launch",
+      "mainClass": "comparablecomparator.comparable.Driver",
+      "projectName": "test_93a20a27"
+    },
+    {
+      "type": "java",
+      "name": "Driver",
+      "request": "launch",
+      "mainClass": "comparablecomparator.Driver",
+      "projectName": "test_93a20a27"
+    },
+    {
+      "type": "java",
+      "name": "EntrySet",
+      "request": "launch",
+      "mainClass": "hashmap.EntrySet",
+      "projectName": "test_93a20a27"
+    },
+    {
+      "type": "java",
+      "name": "Driver",
+      "request": "launch",
+      "mainClass": "set.Driver",
+      "projectName": "test_93a20a27"
+    },
+    {
+      "type": "java",
+      "name": "CollectionUtilsMethods",
+      "request": "launch",
+      "mainClass": "collections.CollectionUtilsMethods",
+      "projectName": "test_93a20a27"
+    },
+    {
+      "type": "java",
+      "name": "collectionUtilsMethods",
+      "request": "launch",
+      "mainClass": "collections.collectionUtilsMethods",
+      "projectName": "test_93a20a27"
+    },
+    {
+      "type": "java",
+      "name": "EmployeeDriver",
+      "request": "launch",
+      "mainClass": "set.hashset.treeset.TreeSetPrac.EmployeeDriver",
+      "projectName": "test_93a20a27"
+    },
+    {
+      "type": "java",
+      "name": "LinkedHashSetPrac",
+      "request": "launch",
+      "mainClass": "set.hashset.linkedhashset.LinkedHashSetPrac",
+      "projectName": "test_93a20a27"
+    },
+    {
+      "type": "java",
       "name": "HashPract",
       "request": "launch",
       "mainClass": "hashset.HashPract",
