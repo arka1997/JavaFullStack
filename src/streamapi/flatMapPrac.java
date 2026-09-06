@@ -3,7 +3,7 @@ package streamapi;
 import java.util.Arrays;
 import java.util.List;
 
-public class flatMapPrac {
+public class FlatMapPrac {
     public static void main(String[] args) {
         // cREATED a 3*3 array
         List<List<String>> arr = List.of(Arrays.asList("Bengalore","Chennhai"), Arrays.asList("Delhi","Bangalore"), Arrays.asList("WestBengal","UP"));

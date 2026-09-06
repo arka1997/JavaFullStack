@@ -1,4 +1,4 @@
-package AbstractClass;
+package abstractclass;
 
 public class Driver {
     public static void main(String[] args) {

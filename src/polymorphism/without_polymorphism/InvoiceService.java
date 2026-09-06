@@ -1,4 +1,4 @@
-package without_polymorphism;
+package polymorphism.without_polymorphism;
 
 public class InvoiceService {
 

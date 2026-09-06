@@ -1,4 +1,4 @@
-package without_polymorphism;
+package polymorphism.without_polymorphism;
 
 /**
  * All supported payment types hardcoded in an enum.

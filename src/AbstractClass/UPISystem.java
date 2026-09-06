@@ -1,4 +1,4 @@
-package AbstractClass;
+package abstractclass;
 
 public class UPISystem extends PaymentSystem {
     UPISystem(){

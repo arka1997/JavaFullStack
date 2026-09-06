@@ -21,5 +21,7 @@ public class Duplicates {
         // Problem3: Sorting
         List<Integer> sorts = input.stream().sorted((a,b) -> b - a).collect(Collectors.toList()); 
         System.out.println(sorts);
+
+        
     }
 }

@@ -3,6 +3,97 @@
   "configurations": [
     {
       "type": "java",
+      "name": "CookingSleepWait",
+      "request": "launch",
+      "mainClass": "thread.runnable.CookingSleepWait",
+      "projectName": "test_93a20a27"
+    },
+    {
+      "type": "java",
+      "name": "Driver",
+      "request": "launch",
+      "mainClass": "thread.runnable.Driver",
+      "projectName": "test_93a20a27"
+    },
+    {
+      "type": "java",
+      "name": "ThreadDriver",
+      "request": "launch",
+      "mainClass": "thread.thread_driver.ThreadDriver",
+      "projectName": "test_93a20a27"
+    },
+    {
+      "type": "java",
+      "name": "RunnableDriver",
+      "request": "launch",
+      "mainClass": "thread.runnable.RunnableDriver",
+      "projectName": "test_93a20a27"
+    },
+    {
+      "type": "java",
+      "name": "ThreadDriver",
+      "request": "launch",
+      "mainClass": "thread.threaddriver.ThreadDriver",
+      "projectName": "test_93a20a27"
+    },
+    {
+      "type": "java",
+      "name": "ThreadPrac",
+      "request": "launch",
+      "mainClass": "thread.ThreadPrac",
+      "projectName": "test_93a20a27"
+    },
+    {
+      "type": "java",
+      "name": "CombiningList",
+      "request": "launch",
+      "mainClass": "streamapi.CombiningList",
+      "projectName": "test_93a20a27"
+    },
+    {
+      "type": "java",
+      "name": "StringDuplicatesImp",
+      "request": "launch",
+      "mainClass": "streamapi.StringDuplicatesImp",
+      "projectName": "test_93a20a27"
+    },
+    {
+      "type": "java",
+      "name": "Grouping",
+      "request": "launch",
+      "mainClass": "streamapi.Grouping",
+      "projectName": "test_93a20a27"
+    },
+    {
+      "type": "java",
+      "name": "SumOfNumber",
+      "request": "launch",
+      "mainClass": "streamapi.SumOfNumber",
+      "projectName": "test_93a20a27"
+    },
+    {
+      "type": "java",
+      "name": "FindFirstWithHighestProb",
+      "request": "launch",
+      "mainClass": "streamapi.FindFirstWithHighestProb",
+      "projectName": "test_93a20a27"
+    },
+    {
+      "type": "java",
+      "name": "FindFirstProb",
+      "request": "launch",
+      "mainClass": "streamapi.FindFirstProb",
+      "projectName": "test_93a20a27"
+    },
+    {
+      "type": "java",
+      "name": "PaginationLimitSkip",
+      "request": "launch",
+      "mainClass": "streamapi.PaginationLimitSkip",
+      "projectName": "test_93a20a27"
+    },
+    {
+      "type": "java",
       "name": "Duplicates",
       "request": "launch",
       "mainClass": "streamapi.Duplicates",
