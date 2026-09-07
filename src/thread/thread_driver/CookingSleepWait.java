@@ -1,4 +1,4 @@
-package thread.runnable;
+package thread.thread_driver;
 
 class Cooking extends Thread{
     @Override
@@ -26,7 +26,6 @@ public class CookingSleepWait {
             t1.join();// Internally uses wait, to wait the other thread until t1 completes
             System.out.println("Waiter started serving food [" + Thread.currentThread().getName() + "]");
         } catch (InterruptedException e) {
-            // TODO Auto-generated catch block
             e.printStackTrace();
         }
 

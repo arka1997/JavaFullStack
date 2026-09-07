@@ -3,6 +3,62 @@
   "configurations": [
     {
       "type": "java",
+      "name": "BankingThreadAppWithSynchronized",
+      "request": "launch",
+      "mainClass": "thread.thread_driver.BankingThreadAppWithSynchronized",
+      "projectName": "test_93a20a27"
+    },
+    {
+      "type": "java",
+      "name": "BankingThreadApp",
+      "request": "launch",
+      "mainClass": "thread.thread_driver.BankingThreadApp",
+      "projectName": "test_93a20a27"
+    },
+    {
+      "type": "java",
+      "name": "SingleVsMultiThreadSpeed",
+      "request": "launch",
+      "mainClass": "thread.SingleVsMultiThreadSpeed",
+      "projectName": "test_93a20a27"
+    },
+    {
+      "type": "java",
+      "name": "OddEvenDriversWithoutSynchronize",
+      "request": "launch",
+      "mainClass": "thread.thread_driver.OddEvenDriversWithoutSynchronize",
+      "projectName": "test_93a20a27"
+    },
+    {
+      "type": "java",
+      "name": "OddEvenDriversWithSynchronize",
+      "request": "launch",
+      "mainClass": "thread.thread_driver.OddEvenDriversWithSynchronize",
+      "projectName": "test_93a20a27"
+    },
+    {
+      "type": "java",
+      "name": "OddEvenDrivers",
+      "request": "launch",
+      "mainClass": "thread.thread_driver.OddEvenDrivers",
+      "projectName": "test_93a20a27"
+    },
+    {
+      "type": "java",
+      "name": "OddEvenPrintNumbers",
+      "request": "launch",
+      "mainClass": "thread.thread_driver.OddEvenPrintNumbers",
+      "projectName": "test_93a20a27"
+    },
+    {
+      "type": "java",
+      "name": "CookingSleepWait",
+      "request": "launch",
+      "mainClass": "thread.thread_driver.CookingSleepWait",
+      "projectName": "test_93a20a27"
+    },
+    {
+      "type": "java",
       "name": "CookingSleepWait",
       "request": "launch",
       "mainClass": "thread.runnable.CookingSleepWait",
