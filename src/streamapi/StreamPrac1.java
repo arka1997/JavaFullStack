@@ -19,5 +19,8 @@ public class StreamPrac1 {
             .map(i -> i * 10)
             .collect(Collectors.toList());
         System.out.println(result);
+
+
+
     }
 }

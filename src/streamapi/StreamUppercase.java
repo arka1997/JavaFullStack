@@ -6,7 +6,7 @@ import java.util.stream.Stream;
 
 public class StreamUppercase {
     public static void main(String[] args) {
-        List<String> brands = List.of("nokia","samsung","lg","sony","apple","windows","sonata","sony");
+        List<String> brands = List.of("nokia","samsung","lg","sony","apple","windows","sonata","sony","APPLE");
         // Converting the collections list to stream object
         Stream<String> streams = brands.stream();
         // Now start processing the stream into Uppercase - Intermediate Operations Start, Converting one Streams to another Streams
@@ -21,5 +21,12 @@ public class StreamUppercase {
         Set<String> set = streams2.filter(e -> e.startsWith("s")).map(e -> e.replace('s', 'p')).collect(Collectors.toSet());
 
         System.out.println(set);
+
+
+        List<String> result2 = brands.stream().filter(a -> a.startsWith("A")).collect(Collectors.toList());
+        System.out.println(result2);
+
+        List<String> result2Uppercase = brands.stream().filter(city -> city.startsWith("s")).map( city -> city.toUpperCase()).collect(Collectors.toList());
+        System.out.println(result2Uppercase);
     }
 }

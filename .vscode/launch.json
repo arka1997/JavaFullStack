@@ -3,6 +3,55 @@
   "configurations": [
     {
       "type": "java",
+      "name": "KodewalaProblems",
+      "request": "launch",
+      "mainClass": "streamapi.stream_java_problem.KodewalaProblems",
+      "projectName": "test_93a20a27"
+    },
+    {
+      "type": "java",
+      "name": "FlatMapPrac",
+      "request": "launch",
+      "mainClass": "streamapi.FlatMapPrac",
+      "projectName": "test_93a20a27"
+    },
+    {
+      "type": "java",
+      "name": "SumOfElements",
+      "request": "launch",
+      "mainClass": "streamapi.stream_java_problem.SumOfElements",
+      "projectName": "test_93a20a27"
+    },
+    {
+      "type": "java",
+      "name": "CallableExecutorDriver",
+      "request": "launch",
+      "mainClass": "multithreading_concurrency.callable.CallableExecutorDriver",
+      "projectName": "test_93a20a27"
+    },
+    {
+      "type": "java",
+      "name": "Driver",
+      "request": "launch",
+      "mainClass": "thread.thread_driver.inter_thread_communicate_producer_consumer.Driver",
+      "projectName": "test_93a20a27"
+    },
+    {
+      "type": "java",
+      "name": "ReentrantLockBanking",
+      "request": "launch",
+      "mainClass": "thread.thread_driver.ReentrantLockBanking",
+      "projectName": "test_93a20a27"
+    },
+    {
+      "type": "java",
+      "name": "PrintNumbersSleepWait",
+      "request": "launch",
+      "mainClass": "thread.runnable.PrintNumbersSleepWait",
+      "projectName": "test_93a20a27"
+    },
+    {
+      "type": "java",
       "name": "BankingThreadAppWithSynchronized",
       "request": "launch",
       "mainClass": "thread.thread_driver.BankingThreadAppWithSynchronized",
