@@ -26,6 +26,6 @@ class Driver {
         PrintNumbers p = new PrintNumbers();
         Thread t1 = new Thread(p);
         t1.start();
-        t1.start();//This throws an exception. Once a thread starts, executes run(), and then Terminates, then its dead. We can't start it again.
+        // t1.start();//This throws an exception. Once a thread starts, executes run(), and then Terminates, then its dead. We can't start it again.
     }
 }

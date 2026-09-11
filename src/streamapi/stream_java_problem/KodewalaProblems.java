@@ -1,7 +1,9 @@
 package streamapi.stream_java_problem;
 
 import java.util.Arrays;
+import java.util.HashSet;
 import java.util.List;
+import java.util.Optional;
 import java.util.stream.Collectors;
 
 class Employee {
@@ -76,5 +78,39 @@ public class KodewalaProblems {
         .filter(e -> e.length() > 6)
         .collect(Collectors.toList());
         System.out.println("Lengths of cities greater then 6: " + result5);
+
+
+
+
+        List<Integer> numbers = Arrays.asList(2,4,6,8,5,3);
+
+        Optional<Integer> o = numbers.stream().filter(e -> e %2 ==0).findFirst();
+        System.out.println(o.get());
+
+
+        Long cnt = numbers.stream().count();
+
+        numbers.stream().sorted((a,b) -> b - a).forEach(out -> System.out.println(out));
+        numbers.stream().skip(1).forEach(out -> System.out.println(out));
+        
+        /**
+         *  So first we have list of salaries. Now, we have to find the 3rd highest salary. For that highest, we need to order this
+            list in descending order, to bring the highest elements to the top, and reduce no. of operations.
+            To get the 3rd highest, we can say to skip the 1st 2 elements, which is first highest and 2nd highest, and then either 
+            use findFirst to get the 1st element, or limit 1, will just give the 1st element.
+        */
+        List<Integer> salary = Arrays.asList(52000, 25000, 32000, 45000, 38000, 52000, 28000, 65000, 41000, 75000, 55000, 32000);
+        List<Integer> thirdHighest = salary.stream().distinct().sorted((a,b) -> b - a).skip(2).limit(1).toList();
+        System.out.println(thirdHighest);
+
+        /**
+         * Find the duplicates from given list of string
+         * 1st we can use HashMap to store
+         */
+
+        List<String> employee = Arrays.asList("Deba","Arko","Puku","Puku", "Arko");
+        HashSet<String> set = new HashSet<>();
+        List<String> duplicatesOnly = employee.stream().filter(emps -> !set.add(emps)).toList();
+        System.out.println(duplicatesOnly);
     }
 }

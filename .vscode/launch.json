@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "AverageOfTwoList",
+      "request": "launch",
+      "mainClass": "streamapi.stream_java_problem.AverageOfTwoList",
+      "projectName": "test_93a20a27"
+    },
+    {
+      "type": "java",
       "name": "KodewalaProblems",
       "request": "launch",
       "mainClass": "streamapi.stream_java_problem.KodewalaProblems",

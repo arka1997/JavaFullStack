@@ -28,10 +28,11 @@ public class PrintNumbersSleepWait {
         PrintNumber t = new PrintNumber();
         Thread t1 = new Thread(t);
         Thread t2 = new Thread(t);
+        Thread t3 = new Thread(t);
 
         t1.start();
         t2.start();
-        // t3.start();
+        t3.start();
         // t4.start();
         // t5.start();
     }    
