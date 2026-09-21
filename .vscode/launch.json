@@ -3,6 +3,41 @@
   "configurations": [
     {
       "type": "java",
+      "name": "xyz",
+      "request": "launch",
+      "mainClass": "multithreading_concurrency.runnable.xyz",
+      "projectName": "test_93a20a27"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "multithreading_concurrency.runnable.Main",
+      "projectName": "test_93a20a27"
+    },
+    {
+      "type": "java",
+      "name": "kodewalaPractice2",
+      "request": "launch",
+      "mainClass": "multithreading_concurrency.runnable.kodewalaPractice2",
+      "projectName": "test_93a20a27"
+    },
+    {
+      "type": "java",
+      "name": "kodewalaPractice",
+      "request": "launch",
+      "mainClass": "multithreading_concurrency.runnable.kodewalaPractice",
+      "projectName": "test_93a20a27"
+    },
+    {
+      "type": "java",
+      "name": "EmployeeDepartmentGrouping",
+      "request": "launch",
+      "mainClass": "streamapi.EmployeeDepartmentGrouping",
+      "projectName": "test_93a20a27"
+    },
+    {
+      "type": "java",
       "name": "AverageOfTwoList",
       "request": "launch",
       "mainClass": "streamapi.stream_java_problem.AverageOfTwoList",
