@@ -3,6 +3,69 @@
   "configurations": [
     {
       "type": "java",
+      "name": "ReverseStatement",
+      "request": "launch",
+      "mainClass": "deutsche_bank.ReverseStatement",
+      "projectName": "java_kodewala_b65167ac"
+    },
+    {
+      "type": "java",
+      "name": "Coding",
+      "request": "launch",
+      "mainClass": "deutsche_bank.Coding",
+      "projectName": "java_kodewala_b65167ac"
+    },
+    {
+      "type": "java",
+      "name": "Coding",
+      "request": "launch",
+      "mainClass": "Coding",
+      "projectName": "java_kodewala_b65167ac"
+    },
+    {
+      "type": "java",
+      "name": "ReverseStatement",
+      "request": "launch",
+      "mainClass": "ReverseStatement",
+      "projectName": "java_kodewala_b65167ac"
+    },
+    {
+      "type": "java",
+      "name": "Driver",
+      "request": "launch",
+      "mainClass": "multithreading_concurrency.completable_future.Driver",
+      "projectName": "java_kodewala_b65167ac"
+    },
+    {
+      "type": "java",
+      "name": "ThreadDriver",
+      "request": "launch",
+      "mainClass": "multithreading_concurrency.callable.sendemail.ThreadDriver",
+      "projectName": "test_93a20a27"
+    },
+    {
+      "type": "java",
+      "name": "Thread",
+      "request": "launch",
+      "mainClass": "multithreading_concurrency.callable.sendemail.Thread",
+      "projectName": "test_93a20a27"
+    },
+    {
+      "type": "java",
+      "name": "Driver",
+      "request": "launch",
+      "mainClass": "geekyAnts.Driver",
+      "projectName": "test_93a20a27"
+    },
+    {
+      "type": "java",
+      "name": "SynchronisedBlock",
+      "request": "launch",
+      "mainClass": "multithreading_concurrency.sychronization.SynchronisedBlock",
+      "projectName": "test_93a20a27"
+    },
+    {
+      "type": "java",
       "name": "xyz",
       "request": "launch",
       "mainClass": "multithreading_concurrency.runnable.xyz",
